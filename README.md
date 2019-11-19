@@ -55,3 +55,6 @@ berikut gambarnya.
 ##Hasil Output.
 ![hasil output](https://user-images.githubusercontent.com/56884391/69119555-9bfd6280-0ac9-11ea-9819-0756e739f4de.png)
 ![hasil output1](https://user-images.githubusercontent.com/56884391/69119566-a1f34380-0ac9-11ea-8cc7-b591c6621dfc.png)
+
+##FLOWCHART Tugas Pratikum 4
+![Flowchart](https://user-images.githubusercontent.com/56884391/69145334-0630fa00-0b00-11ea-983a-4274f96df40a.png)
