@@ -50,8 +50,12 @@ totNA,NB,NC,ND,NE=0,0,0,0,0. tot adalah total, dan NA-NE=0 adalah untuk menghasi
 contoh: NAMA,NIM,TUGAS,UTS,UAS,nilai(nilai_akhir).
 4). Setelah kita meng Input smua data kita. Tahap selanjutnya, kita gunakan syntax float untuk TUGAS,UAS,UTS,nilai. fungsi float() berfungsi mengubah bilangan menjadi float. contoh syntax float(): float([x]).
 berikut gambar cara membuat pemograman sederhana untuk menambahkan data ke dalam list.
+5). Disini selain menggunakan syntax while. Kita juga harus menggunakan syntax FOR I IN RANGE(). yaitu untuk menampilkan sebuah data pada tabel.
+berikut gambarnya.
 ##Hasil Input.
 ![hasil input](https://user-images.githubusercontent.com/56884391/69119493-56409a00-0ac9-11ea-8ea6-d3d60cc22697.png)
 ![hasil input1](https://user-images.githubusercontent.com/56884391/69119498-5c367b00-0ac9-11ea-84f2-084df7eae48a.png)
 
 ##Hasil Output.
+![hasil output](https://user-images.githubusercontent.com/56884391/69119555-9bfd6280-0ac9-11ea-9819-0756e739f4de.png)
+![hasil output1](https://user-images.githubusercontent.com/56884391/69119566-a1f34380-0ac9-11ea-8cc7-b591c6621dfc.png)
