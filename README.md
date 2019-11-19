@@ -29,7 +29,6 @@ b.extend([16, 17, 18]). menambahkan 3 angka sekaligus ke dalam list b.Contoh:b=[
 c = a+b. c adalah jumlah. a+b adalah list yang akan di gabungkan menjadi satu.
 print(c). maka hasil yg akan muncul dari (c) adalah :[1, 4, 6, 8, 90, 20, 6, 8, 15, 16, 17, 18].
 berikut gambar list nya.
-![Latihan2](https://user-images.githubusercontent.com/56884391/69117266-bfbcaa80-0ac1-11ea-9a61-4c8fd7b8f18d.png)
 ![Latihan](https://user-images.githubusercontent.com/56884391/69117277-c5b28b80-0ac1-11ea-897a-fc0429a7f44b.png)
 
 
@@ -52,9 +51,6 @@ contoh: NAMA,NIM,TUGAS,UTS,UAS,nilai(nilai_akhir).
 berikut gambar cara membuat pemograman sederhana untuk menambahkan data ke dalam list.
 5). Disini selain menggunakan syntax while. Kita juga harus menggunakan syntax FOR I IN RANGE(). yaitu untuk menampilkan sebuah data pada tabel.
 berikut gambarnya.
-##Hasil Input.
-![hasil input](https://user-images.githubusercontent.com/56884391/69119493-56409a00-0ac9-11ea-8ea6-d3d60cc22697.png)
-![hasil input1](https://user-images.githubusercontent.com/56884391/69119498-5c367b00-0ac9-11ea-84f2-084df7eae48a.png)
 
 ##Hasil Output.
 ![hasil output](https://user-images.githubusercontent.com/56884391/69119555-9bfd6280-0ac9-11ea-9819-0756e739f4de.png)
