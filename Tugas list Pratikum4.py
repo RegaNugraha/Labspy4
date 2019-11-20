@@ -16,8 +16,6 @@ totNA, totNB, totNC, totND, totNE=0,0,0,0,0
 jawab="y"
 while jawab=='y':
     NS=input("Nama Siswa : ")
-    if NS=='x':
-        break
     NIM=input("Nim Siswa : ")
     TUGAS=float(input("Nilai Tugas : "))
     UTS=float(input("Nilai UTS : "))
@@ -47,7 +45,9 @@ while jawab=='y':
     NUASL.append(UAS)
     NAL.append(nilai)
     KetL.append(ket)
-
+    
+    if jawab=="t":
+        break
     jawab = input("ingin menambah data(y/t)? ")
 
 print()
