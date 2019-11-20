@@ -46,8 +46,6 @@ while jawab=='y':
     NAL.append(nilai)
     KetL.append(ket)
     
-    if jawab=="t":
-        break
     jawab = input("ingin menambah data(y/t)? ")
 
 print()
