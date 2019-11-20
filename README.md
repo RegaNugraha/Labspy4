@@ -57,4 +57,5 @@ berikut gambarnya.
 ![hasil output1](https://user-images.githubusercontent.com/56884391/69119566-a1f34380-0ac9-11ea-8cc7-b591c6621dfc.png)
 
 ##FLOWCHART Tugas Pratikum 4
-![Flowchart](https://user-images.githubusercontent.com/56884391/69145334-0630fa00-0b00-11ea-983a-4274f96df40a.png)
+![Flowchart](https://user-images.githubusercontent.com/56884391/69263865-bbdf7400-0bf8-11ea-9066-1afd3641954a.png)
+
