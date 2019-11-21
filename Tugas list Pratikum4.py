@@ -47,6 +47,8 @@ while jawab=='y':
     KetL.append(ket)
     
     jawab = input("ingin menambah data(y/t)? ")
+    if jawab=="t":
+        break
 
 print()
 print()
